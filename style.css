@@ -9,3 +9,19 @@ td,th
     text-align: left;
     padding:5px;
 }
+.last
+{
+    background-color:blue;
+}
+.head
+{
+    background-color:gray;
+}
+.first
+{
+    background-color:orangered;
+}
+.second
+{
+    background-color:green;
+}
